@@ -20,6 +20,9 @@
     NSLog(@"hello world");
     
     NSLog(@"小嗨  大山炮");
+    
+    
+    NSLog(@"大山炮  小嗨");
 }
 
 - (void)didReceiveMemoryWarning {
