@@ -23,6 +23,10 @@
     
     
     NSLog(@"大山炮  小嗨");
+    
+    
+    
+    NSLog(@"随便");
 }
 
 - (void)didReceiveMemoryWarning {
